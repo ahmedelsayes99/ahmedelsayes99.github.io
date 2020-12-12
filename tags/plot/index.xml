@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>plot on Ahmed Elsayes</title>
+    <link>/tags/plot/</link>
+    <description>Recent content in plot on Ahmed Elsayes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate><atom:link href="/tags/plot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/post/2015/07/23/hello-r-markdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2015/07/23/hello-r-markdown/</guid>
+      <description>library(readr) Life_Expectancy_Data &amp;lt;- read_csv(&amp;quot;~/Life Expectancy Data.csv&amp;quot;) ## Parsed with column specification: ## cols( ## .default = col_double(), ## Country = col_character(), ## Status = col_character() ## ) ## See spec(...) for full column specifications. R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:</description>
+    </item>
+    
+  </channel>
+</rss>
